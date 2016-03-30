@@ -18,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  padding: 0;
 }
 
 /* HTML5 display definitions
@@ -134,7 +135,7 @@ dfn {
  */
 
 h1 {
-  font-size: 2em;
+  font-size: 12;
   margin: 0.67em 0;
 }
 
