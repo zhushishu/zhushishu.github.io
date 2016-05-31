@@ -528,7 +528,8 @@ ol {
 ul ul,
 ul ol,
 ol ol,
-ol ul {
+ol ul,
+ul li {
     margin: .5em 0 1em 0;
 }
 
