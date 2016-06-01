@@ -518,6 +518,7 @@ li,h6 {
 p {
     margin-top: 2rem;
     margin-bottom: 2rem;
+    text-indent: 2em;
 }
 
 ul,
